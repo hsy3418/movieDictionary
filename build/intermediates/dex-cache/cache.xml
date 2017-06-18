@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/siyuanhu/.android/build-cache/2c4e9bde1c316d6f7d546bc0eef65f65450db21e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/siyuanhu/Downloads/MovieDic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_99e98a9bef8eff2129be3d183691820471c1ab6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/siyuanhu/.gradle/caches/modules-2/files-2.1/com.jakewharton.retrofit/retrofit2-rxjava2-adapter/1.0.0/e117362a2103f8ec01091ebd2f40aca4e1ada599/retrofit2-rxjava2-adapter-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e117362a2103f8ec01091ebd2f40aca4e1ada599">
+        <dex dex="/Users/siyuanhu/Downloads/MovieDic/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit2-rxjava2-adapter-1.0.0_dcbb21df82d55f982fd4b001f11c637882623c31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/siyuanhu/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/siyuanhu/Downloads/MovieDic/app/build/intermediates/transforms/dex/debug/folders/1000/10/reactive-streams-1.0.0_bcf5e1195532e2db65312af1e3d0770abcb42ee7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/siyuanhu/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/siyuanhu/Downloads/MovieDic/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_8841f46cd1f1ad1afce771ac807c4d99ab32f58f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/siyuanhu/.android/build-cache/ecda6fc38e5fa267526acdc0bb85fda6fa4d448a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/siyuanhu/Downloads/MovieDic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e31de1739ea37a0e043e1cb502aedb29f25a5988/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/siyuanhu/.android/build-cache/509e25252493a0b57200fb71680e45d83dfe9814/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d0fb23668092ba748cc5660605b1a2ded0d52eac">
+        <dex dex="/Users/siyuanhu/Downloads/MovieDic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ddf76c967a3b4d5ca76880ae8f3ea820bea09afc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/siyuanhu/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/Users/siyuanhu/Downloads/MovieDic/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.8.0_6c167ee33c16bda69ab63ab332816c57c5fb9df3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/siyuanhu/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="/Users/siyuanhu/Downloads/MovieDic/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.3.0_5bf7a2fc8e83b9cb629e225022e8ce39fed46c96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/siyuanhu/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/siyuanhu/Downloads/MovieDic/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_e0b28fe52b96aec327a00be003a9dd71252e5896/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/siyuanhu/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/siyuanhu/Downloads/MovieDic/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_247809a62463469155e15220664c417935b6eb25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/siyuanhu/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.1/57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb/rxjava-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb">
+        <dex dex="/Users/siyuanhu/Downloads/MovieDic/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-2.0.1_042409f03c58c4a7585b8368791ce625b4323c85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/siyuanhu/.android/build-cache/7a58c7d453bfe578603f0f67556e82f8c134d24b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/siyuanhu/Downloads/MovieDic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_140820536ce656fd9cc60086f75d820b7a9cd4e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/siyuanhu/Downloads/MovieDic/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/siyuanhu/Downloads/MovieDic/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ec398b35c994a024d2bf555a09808571e8775834/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/siyuanhu/Downloads/MovieDic/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="196714b1c3b75d4725e2dfdf07d7b88ea60fb01d">
+        <dex dex="/Users/siyuanhu/Downloads/MovieDic/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_aeb25b555f93fa0ff3227e8e4dba2e90eae35992/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/siyuanhu/.android/build-cache/a16c5bf93bea6096c721b94aac9737cfe4f445d8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/siyuanhu/Downloads/MovieDic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_17a7ae29f5fc109a660756d04cd654fa9bdef9eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/siyuanhu/.android/build-cache/d30f3e2c447aa01e752b6e7d060529b7c6b0556f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="379a48c2da13ffb7ec7134f2c715663834357670">
+        <dex dex="/Users/siyuanhu/Downloads/MovieDic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_50aa2eb0e3a8c3e845ef5ef4e941ff56bc7cf2e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/siyuanhu/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/Users/siyuanhu/Downloads/MovieDic/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.3.0_8584673af95a3f97ec534040c4393d6346949c56/classes.dex" />
+    </item>
+
+</items>

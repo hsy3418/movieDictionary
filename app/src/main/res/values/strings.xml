@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MovieDic</string>
+    <string name="trailers">trailers</string>
+    <string name="reviews">Reviews</string>
+</resources>
